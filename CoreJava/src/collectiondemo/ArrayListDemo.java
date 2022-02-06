@@ -1,4 +1,4 @@
-package oop;
+package collectiondemo;
 
 import java.util.ArrayList;
 
@@ -12,7 +12,7 @@ public class ArrayListDemo {
 		System.out.println("Length of Array is: "+arr.length);
 		
 		//Generic
-		//ArrayList is class which implements List Interface
+		//ArrayList is a class which implements List Interface
 		ArrayList<Integer> al=new ArrayList<>();
 		
 		al.add(50);
