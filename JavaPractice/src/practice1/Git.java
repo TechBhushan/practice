@@ -4,7 +4,7 @@ public class Git {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("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");
+		System.out.println("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");
 
 	}
 
